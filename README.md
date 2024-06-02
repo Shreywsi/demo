@@ -1,2 +1,3 @@
 # demo
-this is my first Github repository
+this is my first Git repository.
+author: Shreyasi Soumya
